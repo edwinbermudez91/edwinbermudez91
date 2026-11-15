@@ -90,11 +90,11 @@ Soy **Senior DevOps & Site Reliability Engineer (SRE)** apasionado por el ecosis
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/edwinbermudez91/devops">devops</a></h3>
-      <p><b>Repositorio de Ingeniería de Plataformas, SRE y Certificaciones.</b> Colección de guías prácticas, comandos esenciales, automatización y recursos de preparación para certificaciones como <b>CKA (Certified Kubernetes Administrator)</b>.</p>
+      <h3>🐳 <a href="https://github.com/edwinbermudez91/Capacitacion_Docker-Kubernetes">Capacitacion_Docker-Kubernetes</a></h3>
+      <p><b>Material y laboratorios prácticos de capacitación en Contenedores y Orquestación.</b> Guías paso a paso para dominar <b>Docker, Docker Compose y Kubernetes</b> desde los fundamentos hasta despliegues reales.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/edwinbermudez91/devops?style=flat-square&logo=github&label=Stars" />
-        <img src="https://img.shields.io/badge/Focus-CKA_•_SRE_•_Platform-326CE5?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/edwinbermudez91/Capacitacion_Docker-Kubernetes?style=flat-square&logo=github&label=Stars" />
+        <img src="https://img.shields.io/badge/Stack-Docker_•_Kubernetes-2496ED?style=flat-square" />
       </p>
     </td>
   </tr>

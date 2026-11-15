@@ -104,127 +104,121 @@ Soy **Senior DevOps & Site Reliability Engineer (SRE)** apasionado por el ecosis
 
 ## 📜 Certificaciones & Credenciales Oficiales
 
-### 👨‍🚀 Kubestronaut, Kubernetes & Linux Foundation (CNCF / LF)
-> Reconocimiento oficial de la CNCF por completar las 5 certificaciones de Kubernetes (**CKA, CKS, CKAD, KCSA y KCNA**), junto a **Istio (ICA)** y **Linux (LFCS)**.
+### 👨‍🚀 Kubestronaut, Kubernetes, Linux & Cloud (CNCF / LF / Multi-Cloud)
+> Distinción **Kubestronaut** (**CKA, CKS, CKAD, KCSA, KCNA**) junto a **Istio (ICA)**, **Linux Foundation (LFCS/LFCA)**, **AWS**, **GCP** y **GitHub Actions**.
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="16.6%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="90" alt="Kubestronaut" title="Kubestronaut (CNCF)" /><br/>
+        <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="84" alt="Kubestronaut" title="Kubestronaut (CNCF)" /><br/>
         <sub><b>Kubestronaut</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.6%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="90" alt="CKA" title="CKA: Certified Kubernetes Administrator" /><br/>
+        <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="84" alt="CKA" title="CKA: Certified Kubernetes Administrator" /><br/>
         <sub><b>CKA</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.6%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="90" alt="CKS" title="CKS: Certified Kubernetes Security Specialist" /><br/>
+        <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="84" alt="CKS" title="CKS: Certified Kubernetes Security Specialist" /><br/>
         <sub><b>CKS</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.6%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="90" alt="CKAD" title="CKAD: Certified Kubernetes Application Developer" /><br/>
+        <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="84" alt="CKAD" title="CKAD: Certified Kubernetes Application Developer" /><br/>
         <sub><b>CKAD</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
+        <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="84" alt="KCSA" title="KCSA: Kubernetes and Cloud Native Security Associate" /><br/>
+        <sub><b>KCSA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
+        <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="84" alt="KCNA" title="KCNA: Kubernetes and Cloud Native Associate" /><br/>
+        <sub><b>KCNA</b></sub>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="16.6%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="90" alt="KCSA" title="KCSA: Kubernetes and Cloud Native Security Associate" /><br/>
-        <sub><b>KCSA</b></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="90" alt="KCNA" title="KCNA: Kubernetes and Cloud Native Associate" /><br/>
-        <sub><b>KCNA</b></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" width="90" alt="ICA" title="ICA: Istio Certified Associate" /><br/>
+        <img src="https://images.credly.com/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" width="84" alt="ICA" title="ICA: Istio Certified Associate" /><br/>
         <sub><b>ICA (Istio)</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16.6%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/1677b995-9642-44e2-8961-026f84810bbc/blob" width="90" alt="LFCS" title="LFCS: Linux Foundation Certified Systems Administrator" /><br/>
+        <img src="https://images.credly.com/images/1677b995-9642-44e2-8961-026f84810bbc/blob" width="84" alt="LFCS" title="LFCS: Linux Foundation Certified Systems Administrator" /><br/>
         <sub><b>LFCS</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
+        <img src="https://images.credly.com/images/a2c14e0a-56cb-4990-809a-23b0850c1f96/Training_Badges_LFCA_for_acclaim.png" width="84" alt="LFCA" title="LFCA: Linux Foundation Certified IT Associate" /><br/>
+        <sub><b>LFCA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="84" alt="AWS SAA" title="AWS Certified Solutions Architect – Associate" /><br/>
+        <sub><b>AWS SAA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
+        <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="84" alt="GCP ACE" title="Google Cloud Certified Associate Cloud Engineer" /><br/>
+        <sub><b>GCP ACE</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
+        <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="84" alt="GitHub Actions" title="GitHub Actions" /><br/>
+        <sub><b>GH Actions</b></sub>
       </a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary>🏅 <b>Ver +14 certificaciones adicionales (Linux, AWS, GCP, Azure, GitHub y Cilium eBPF)</b></summary>
+<summary>🏅 <b>Ver +10 certificaciones adicionales (Red Hat, AWS, Azure, GitHub y Cilium eBPF)</b></summary>
 
 <br/>
 
-#### 🐧 Administración de Sistemas & Linux
-<table>
+#### ☁️ Cloud, Linux & DevOps
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/a2c14e0a-56cb-4990-809a-23b0850c1f96/Training_Badges_LFCA_for_acclaim.png" width="80" alt="LFCA" title="LFCA: Linux Foundation Certified IT Associate" /><br/>
-        <sub><b>LFCA</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/f7a9117d-c304-44a5-91db-d45dfbb188bc/Red_Hat_System_Administration_I.png" width="80" alt="RH124" title="Red Hat System Administration I (RH124)" /><br/>
+        <img src="https://images.credly.com/images/f7a9117d-c304-44a5-91db-d45dfbb188bc/Red_Hat_System_Administration_I.png" width="78" alt="RH124" title="Red Hat System Administration I (RH124)" /><br/>
         <sub><b>Red Hat I</b></sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/ba63c066-ce5b-403e-9cb7-c686e129ec28/Red_Hat_System_Administration_II.png" width="80" alt="RH134" title="Red Hat System Administration II (RH134)" /><br/>
+        <img src="https://images.credly.com/images/ba63c066-ce5b-403e-9cb7-c686e129ec28/Red_Hat_System_Administration_II.png" width="78" alt="RH134" title="Red Hat System Administration II (RH134)" /><br/>
         <sub><b>Red Hat II</b></sub>
       </a>
     </td>
-  </tr>
-</table>
-
-#### ☁️ Cloud Providers, DevOps & CI/CD
-<table>
-  <tr>
-    <td align="center" width="16%">
-      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="78" alt="GCP ACE" title="Google Cloud Certified Associate Cloud Engineer" /><br/>
-        <sub><b>GCP ACE</b></sub>
-      </a>
-    </td>
-    <td align="center" width="16%">
-      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="78" alt="AWS SAA" title="AWS Certified Solutions Architect – Associate" /><br/>
-        <sub><b>AWS SAA</b></sub>
-      </a>
-    </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
         <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="78" alt="AWS CP" title="AWS Certified Cloud Practitioner" /><br/>
         <sub><b>AWS CP</b></sub>
       </a>
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
         <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="78" alt="Azure AZ-900" title="Microsoft Certified: Azure Fundamentals" /><br/>
         <sub><b>Azure AZ-900</b></sub>
       </a>
     </td>
-    <td align="center" width="16%">
-      <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
-        <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="78" alt="GitHub Actions" title="GitHub Actions" /><br/>
-        <sub><b>GH Actions</b></sub>
-      </a>
-    </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://www.credly.com/users/edwin-harley-bermudez-cuervo/badges" target="_blank">
         <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="78" alt="GitHub Foundations" title="GitHub Foundations" /><br/>
         <sub><b>GH Foundations</b></sub>

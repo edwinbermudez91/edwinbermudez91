@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 175" width="900" height="175">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="50%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#FDE047"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="896" height="171" rx="18" fill="url(#bg)" stroke="url(#accent)" stroke-width="2.5"/>
+
+  <!-- Kubernetes wheel watermark left -->
+  <g opacity="0.14" transform="translate(88, 87)" color="#38BDF8">
+    <circle cx="0" cy="0" r="44" fill="none" stroke="currentColor" stroke-width="6"/>
+    <circle cx="0" cy="0" r="14" fill="currentColor"/>
+    <line x1="0" y1="-56" x2="0" y2="56" stroke="currentColor" stroke-width="5.5" stroke-linecap="round"/>
+    <line x1="-48" y1="-28" x2="48" y2="28" stroke="currentColor" stroke-width="5.5" stroke-linecap="round"/>
+    <line x1="48" y1="-28" x2="-48" y2="28" stroke="currentColor" stroke-width="5.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Hexagon watermark right -->
+  <g opacity="0.14" transform="translate(812, 87)" color="#2DD4BF">
+    <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="currentColor" stroke-width="5.5"/>
+    <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="currentColor" opacity="0.5"/>
+  </g>
+
+  <text x="450" y="46" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="12.5" font-weight="800" fill="#FDE047" letter-spacing="3.5">CNCF KUBESTRONAUT  •  CLOUD NATIVE MEDELLÍN</text>
+  <text x="450" y="92" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="38" font-weight="900" fill="#FFFFFF" letter-spacing="2">EDWIN BERMÚDEZ</text>
+  <rect x="230" y="108" width="440" height="2.5" rx="1.25" fill="url(#accent)" opacity="0.9"/>
+  <text x="450" y="136" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="13.5" font-weight="700" fill="#93C5FD" letter-spacing="2.2">SENIOR DEVOPS &amp; SRE  •  CLOUD NATIVE INSTRUCTOR  •  MEDELLÍN</text>
+</svg>
